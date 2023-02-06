@@ -1,1 +1,1 @@
-# Landing Page criada oara teste de conhecimento
+# Landing Page criada para teste de conhecimento
