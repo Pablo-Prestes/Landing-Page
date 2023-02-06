@@ -1,0 +1,25 @@
+/*Definições das classes padrões utilizadas BackGround/ 
+comportamento base do conteúdo na tela*/
+  .blue-BG{
+    background-image: url('/assets/Img/blueBG.svg');
+    background-size: cover;
+    background-position: center center; 
+    color: var(--white-color);
+  }
+  .white-BG{
+    background: var(--white-color);
+    color: var(--blue-color);
+  }
+
+  .page-main-content{
+    max-width: 120rem;
+    margin: 0 auto;
+  }
+
+  .section{
+    min-height: 100vh;
+  }
+
+.menu-spacing{
+  height: 5.5rem;
+}
